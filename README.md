@@ -12,8 +12,6 @@ make
 ./lsanitizerTest
 
 ```c
-./lsanitezetTest
-
 =================================================================
 ==196895==ERROR: LeakSanitizer: detected memory leaks
 
